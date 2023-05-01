@@ -11,7 +11,7 @@ if(count==2){
 console.log("Prime number");
 }
 else{
-condjsfkshdzvk.log("not a prime number");
+console.log("not a prime number");
 }
 
 
